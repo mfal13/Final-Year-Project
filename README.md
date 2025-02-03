@@ -22,3 +22,30 @@ This project is a **user-friendly file scanner** designed to detect malware and 
    ```bash
    git clone https://github.com/mfal13/Final-Year-Project.git
    cd Final-Year-Project
+
+2. Run the Scanner
+   ```bash
+   python main.py
+
+## Usage
+
+Open the tool and select the file or folder you want to scan.
+Click the Scan button to check for malware and extract metadata.
+View the scan results and metadata details in an easy-to-understand format.
+
+## Roadmap
+
+- Improve malware detection with AI-based analysis.
+- Add support for scanning compressed archives.
+- Implement real-time scanning for active file monitoring.
+- Expand language support for international users.
+
+## Contributing
+
+Contributions are welcome! Feel free to fork this repository and submit a pull request with enhancements or bug fixes.
+
+License
+This project is licensed under the MIT License. See LICENSE for details.
+
+## Acknowledgments
+Special thanks to cybersecurity and open-source communities for providing valuable research and resources.
