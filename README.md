@@ -25,7 +25,11 @@ This project is a **user-friendly file scanner** designed to detect malware and 
 
 2. Run the Scanner
    ```bash
-   python main.py
+   python app.py
+
+3. Open the websit
+   ```bash
+   Open http://127.0.0.1:5000 to access the scanner
 
 ## Usage
 
@@ -36,6 +40,7 @@ View the scan results and metadata details in an easy-to-understand format.
 ## Roadmap
 
 - Improve malware detection with AI-based analysis.
+- Better useability through improved results page.
 - Add support for scanning compressed archives.
 - Implement real-time scanning for active file monitoring.
 - Expand language support for international users.
